@@ -1,0 +1,15 @@
+F:\InterTestGB\Programm\bin\Debug\net8.0\Programm.exe
+F:\InterTestGB\Programm\bin\Debug\net8.0\Programm.deps.json
+F:\InterTestGB\Programm\bin\Debug\net8.0\Programm.runtimeconfig.json
+F:\InterTestGB\Programm\bin\Debug\net8.0\Programm.dll
+F:\InterTestGB\Programm\bin\Debug\net8.0\Programm.pdb
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.AssemblyInfoInputs.cache
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.AssemblyInfo.cs
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.csproj.CoreCompileInputs.cache
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.sourcelink.json
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.dll
+F:\InterTestGB\Programm\obj\Debug\net8.0\refint\Programm.dll
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.pdb
+F:\InterTestGB\Programm\obj\Debug\net8.0\Programm.genruntimeconfig.cache
+F:\InterTestGB\Programm\obj\Debug\net8.0\ref\Programm.dll
